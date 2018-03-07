@@ -7,5 +7,5 @@
 - [x] [Реляционные БД (PostgreSQL)](postgres/README.md)
 - [x] [Колоночные БД (Apache Cassandra)](cassandra/README.md)
 - [x] [Поисковые движки (ElasticSearch)](elastic_search/README.md)
-- [ ] [Хэш-хранилища (Redis)](redis/README.md)
+- [x] [HASH-хранилища (Redis)](redis/README.md)
 - [ ] [Графовые БД (JanusDB)](janus/README.md)
